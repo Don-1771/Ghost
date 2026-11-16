@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ghost.jpg</file>
+    </qresource>
+</RCC>
